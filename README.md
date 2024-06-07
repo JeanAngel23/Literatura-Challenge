@@ -1,6 +1,6 @@
-<h1 align="center"> Literatura Buscador de libros :books::coffee: </h1>
+<h1 align="center"> Literalura Buscador de libros :books::coffee: </h1>
 
-<a href='https://postimg.cc/68JQ8KSX' target='_blank'><img src='https://i.postimg.cc/68JQ8KSX/java.png' border='0' alt='java'/></a>
+<a href='https://postimg.cc/xXLtsh8k' target='_blank'><img src='https://i.postimg.cc/xXLtsh8k/badge-literalura.png' border='0' alt='badge-literalura'/></a>
 
 
 
