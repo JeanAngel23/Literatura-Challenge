@@ -13,6 +13,7 @@
 
 
 
+
 # Descripción
 Este proyecto es un buscador de libros desarrollado en Java y Spring Boot que permite a los usuarios buscar diferentes libros, autores segun su nombre, fecha de nacimiento entre otras utilizando la API de Gutendex.
 
@@ -38,7 +39,7 @@ Este proyecto es un buscador de libros desarrollado en Java y Spring Boot que pe
 - Busca libros por idioma
 
 
-<a  href='https://i.postimg.cc/tgTwXM6j/lt.png)](https://postimg.cc/pmwqCkkG)/></a>
+[![lt.png](https://i.postimg.cc/tgTwXM6j/lt.png)](https://postimg.cc/pmwqCkkG)
 
 
 - Cuando abramos el repositorio en nuestro IDE (en este caso utilice itellij) al correr el programa con el boton "RUN" se nos desplegara las 5 opciones disponibles para el buscador de libros
